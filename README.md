@@ -17,7 +17,7 @@
   "username": "RinoStack",
   "role": "Software Developer",
   "location": "Global",
-  "skills": ["JavaScript","Express","Tailwind","Docker","Java","Swift"],
+  "skills": ["Express","JavaScript","Angular","Docker","Tailwind","MongoDB"],
   "goal": "job",
   "target": "Excellence"
 }
@@ -25,7 +25,7 @@
 
 ## 🛠️ Tech Stack
 
-[![Skills](https://skillicons.dev/icons?i=javascript,express,tailwind,docker,java,swift,nextjs,fastapi&theme=dark&perline=4)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=express,javascript,angular,docker,tailwind,mongodb,swift,rust&theme=dark&perline=4)](https://skillicons.dev)
 
 ## 📊 GitHub Stats
 
