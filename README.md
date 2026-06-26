@@ -1,16 +1,10 @@
 
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Rino&fontSize=60&fontAlignY=40&animation=twinkling)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=RINO&fontSize=60&fontAlignY=40&animation=twinkling)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1200&color=ffffff&center=true&vCenter=true&width=700&lines=%F0%9F%9A%80%20Full%20Stack%20Developer%20%7C%20Open%20to%20Opportunities;Computer%20Science%20Student;@AAU;Let's%20build%20something%20amazing!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1200&color=7aa2f7&center=true&vCenter=true&width=700&lines=%F0%9F%9A%80%20Full%20Stack%20Developer%20%7C%20Open%20to%20Opportunities;Software%20Developer;Let's%20build%20something%20amazing!)](https://git.io/typing-svg)
 
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/ulysses-puzon-536b01315/)  [![Website](https://img.shields.io/badge/Website-Visit-green)](https://scitely.com/)
-
-</div>
 
 
 </div>
@@ -19,21 +13,19 @@
 
 ```json
 {
-  "name": "Rino",
+  "name": "RINO",
   "username": "RinoStack",
-  "role": "Computer Science Student",
+  "role": "Software Developer",
   "location": "Global",
-  "skills": ["JavaScript","Node.js","Angular","PostgreSQL","Git","Flutter"],
+  "skills": ["JavaScript","Express","Tailwind","Docker","Java","Swift"],
   "goal": "job",
-  "target": "Frontend Developer",
-  "website": "https://scitely.com/",
-  "linkedin": "https://www.linkedin.com/in/ulysses-puzon-536b01315/"
+  "target": "Excellence"
 }
 ```
 
 ## 🛠️ Tech Stack
 
-[![Skills](https://skillicons.dev/icons?i=javascript,nodejs,angular,postgresql,git,flutter&theme=dark&perline=4)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=javascript,express,tailwind,docker,java,swift,nextjs,fastapi&theme=dark&perline=4)](https://skillicons.dev)
 
 ## 📊 GitHub Stats
 
@@ -56,7 +48,7 @@
 ## 🎯 Current Focus
 
 
-- 🔍 Actively seeking Frontend Developer opportunities
+- 🔍 Actively seeking software engineering opportunities
 - 📚 Continuously learning new technologies
 - 💡 Building innovative projects
 - 🤝 Open to collaborations
@@ -64,10 +56,8 @@
 
 ## 📫 Let's Connect
 
-**Currently at:** AAU  
 
 
-**Interested in:** Frontend Developer roles  
 
 
 ---
@@ -75,7 +65,7 @@
 <div align="center">
 
 [![Polished by GitGlow](https://img.shields.io/badge/Polished%20by-GitGlow%20✨-3B82F6?style=flat-square)](https://gitglow-pi.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/ulysses-puzon-536b01315/)
+
 
 **✨ Thank you for visiting! Feel free to reach out.**
 
