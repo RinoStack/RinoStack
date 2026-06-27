@@ -1,7 +1,7 @@
 
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=cxzcxz&fontSize=60&fontAlignY=40&animation=twinkling)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=scxz&fontSize=60&fontAlignY=40&animation=twinkling)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1200&color=7aa2f7&center=true&vCenter=true&width=700&lines=%F0%9F%9A%80%20Full%20Stack%20Developer%20%7C%20Open%20to%20Opportunities;Software%20Developer;Let's%20build%20something%20amazing!)](https://git.io/typing-svg)
 
@@ -13,11 +13,11 @@
 
 ```json
 {
-  "name": "cxzcxz",
+  "name": "scxz",
   "username": "RinoStack",
   "role": "Software Developer",
   "location": "Global",
-  "skills": ["Flutter","Docker","AWS"],
+  "skills": ["MongoDB","Redis","Docker"],
   "goal": "job",
   "target": "Excellence"
 }
@@ -25,7 +25,7 @@
 
 ## 🛠️ Tech Stack
 
-[![Skills](https://skillicons.dev/icons?i=flutter,docker,aws&theme=dark&perline=4)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=mongodb,redis,docker&theme=dark&perline=4)](https://skillicons.dev)
 
 ## 📊 GitHub Stats
 
